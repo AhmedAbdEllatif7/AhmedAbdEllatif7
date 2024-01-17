@@ -37,6 +37,7 @@
 ##### Some of my favorite open source projects
 [![PHPStorm](https://img.shields.io/badge/-PHPStorm-222222?style=flat&logo=phpstorm&logoColor=white)](https://www.jetbrains.com/phpstorm/)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 
 <hr>
