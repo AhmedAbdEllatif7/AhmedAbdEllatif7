@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/Ahmedabdellatif7-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushkaverma/)](https://www.linkedin.com/in/ahmed-abd-ellatif-99b10124a/)
 [![WhatsApp](https://img.shields.io/badge/Ahmedabdellatif7-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=201016416800&text=Hi-Ahmed!🖖)](https://api.whatsapp.com/send?phone=201016416800&text=Hi-Ahmed!🖖)
 [![Website Badge](https://img.shields.io/badge/-Ahmedabdellatif7.com-purple?style=flat&logo=Google-Chrome&logoColor=white&link=https://verma-anushka.github.io/anushkaverma/)](https://ahmedabdellatif7.github.io/Portfolio/) 
-
+<img width="25%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 ##### Languages I use
 
 
@@ -20,7 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-<img width="25%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+
 ##### Some of the technologies I have worked with
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
