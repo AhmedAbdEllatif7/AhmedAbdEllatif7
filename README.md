@@ -1,4 +1,4 @@
-<h2> 𝐇i i'm Ahmed! <img width="8%" align="left" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" /><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2> 
+<h2> 𝐇i i'm Ahmed! <img width="5%" align="left" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" /><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2> 
 
 - 🎓Recent computer science graduate from El-Mynia FCI, specializing in PHP & Laravel
 - 🚀 Currently embarking on a career journey, I bring enthusiasm and attention to detail to the field
