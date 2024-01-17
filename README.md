@@ -1,5 +1,4 @@
-##### Hi, I'm  Ahmed:
-
+<h2> 𝐇i i'm Ahmed! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 - 🎓Recent computer science graduate from El-Mynia FCI, specializing in PHP & Laravel
 - 🚀 Currently embarking on a career journey, I bring enthusiasm and attention to detail to the field. Excited about staying at the forefront of industry trends
 - 🌐 Specializing in web development using the Laravel framework
@@ -10,7 +9,6 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ahmed.abd.allatif.mo7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abd-ellatif-99b10124a/)
 [![WhatsApp](https://img.shields.io/badge/-WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](whatsapp://send?phone=01016416800)
-[![Twitter](https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
 
 ##### Languages I use
 
