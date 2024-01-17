@@ -6,7 +6,7 @@
 - :speech_balloon: Ask me about PHP, Laravel, Searching, Web, or literally anything!
 - :mailbox: You can reach me with the links below.
 
-<img width="15%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<img width="25%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 [![Telegram](https://img.shields.io/badge/Ahmedabdellatif7-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Ahmed_abd_Ellatif)
 [![Gmail](https://img.shields.io/badge/Ahmedabdellatif7-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.ahmed.abd.ellatif.mo7@gmail.com)](mailto:ahmed.abd.ellatif.mo7@gmail.com)
