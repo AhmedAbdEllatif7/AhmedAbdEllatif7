@@ -27,10 +27,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-
-
-
-![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=sarthakbh321&show_icons=true)
 ![Livewire](https://img.shields.io/badge/-Livewire-0753A1?style=flat&logo=laravel&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
@@ -41,3 +37,7 @@
 ##### Some of my favorite open source projects
 [![PHPStorm](https://img.shields.io/badge/-PHPStorm-222222?style=flat&logo=phpstorm&logoColor=white)](https://www.jetbrains.com/phpstorm/)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
+
+
+![Sarthak's stats](https://github-readme-stats.vercel.app/api?username=sarthakbh321&show_icons=true)
+
