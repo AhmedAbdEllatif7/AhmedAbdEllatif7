@@ -1,5 +1,5 @@
 <h2> 𝐇i i'm Ahmed! :man_technologist:<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2> 
-<img width="20%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<img width="15%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 - 🎓Recent computer science graduate from El-Mynia FCI, specializing in PHP & Laravel
 - 🚀 Currently embarking on a career journey, I bring enthusiasm and attention to detail to the field
 - 🌐 Specializing in web development using the Laravel framework
