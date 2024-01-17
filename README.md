@@ -1,16 +1,39 @@
-### Hi there 👋
+##### Hi, I'm  Ahmed:
 
-<!--
-**AhmedAbdEllatif7/AhmedAbdEllatif7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓Recent computer science graduate from El-Mynia FCI, specializing in PHP & Laravel
+- 🚀 Currently embarking on a career journey, I bring enthusiasm and attention to detail to the field. Excited about staying at the forefront of industry trends
+- 🌐 Specializing in web development using the Laravel framework
+- :speech_balloon: Ask me about PHP, Laravel, Searching, Web, or literally anything!
+- :mailbox: You can reach me with the links below
 
-Here are some ideas to get you started:
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adamalston)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ahmed.abd.allatif.mo7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abd-ellatif-99b10124a/)
+[![WhatsApp](https://img.shields.io/badge/-WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](whatsapp://send?phone=01016416800)
+[![Twitter](https://img.shields.io/badge/-TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Languages I use
+
+
+
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+
+##### Some of the technologies I have worked with
+
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/-Livewire-0753A1?style=flat&logo=laravel&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+
+##### Some of my favorite open source projects
+[![PHPStorm](https://img.shields.io/badge/-PHPStorm-222222?style=flat&logo=phpstorm&logoColor=white)](https://www.jetbrains.com/phpstorm/)
+[![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
