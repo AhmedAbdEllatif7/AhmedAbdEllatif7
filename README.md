@@ -9,7 +9,8 @@
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ahmed_abd_Ellatif)
 [![Gmail](https://img.shields.io/badge/Ahmedabdellatif7-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:v.ahmed.abd.ellatif.mo7@gmail.com)](mailto:ahmed.abd.ellatif.mo7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Ahmedabdellatif7-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushkaverma/)](https://www.linkedin.com/in/ahmed-abd-ellatif-99b10124a/)
-[![Whatsapp Badge](https://img.shields.io/badge/-WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=573008754649&text=Olá!)](https://api.whatsapp.com/send?phone=573008754649&text=Hi-Ahmed!🖖)
+[![WhatsApp](https://img.shields.io/badge/Ahmed-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=573008754649&text=Hi-Ahmed!🖖)](https://api.whatsapp.com/send?phone=573008754649&text=Hi-Ahmed!🖖)
+
 [![Website Badge](https://img.shields.io/badge/-Ahmedabdellatif7.com-purple?style=flat&logo=Google-Chrome&logoColor=white&link=https://verma-anushka.github.io/anushkaverma/)](https://ahmedabdellatif7.github.io/Portfolio/) 
 
 ##### Languages I use
