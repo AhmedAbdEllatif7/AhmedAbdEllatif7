@@ -3,7 +3,7 @@
 - 🚀 Currently embarking on a career journey, I bring enthusiasm and attention to detail to the field. Excited about staying at the forefront of industry trends
 - 🌐 Specializing in web development using the Laravel framework
 - :speech_balloon: Ask me about PHP, Laravel, Searching, Web, or literally anything!
-- :mailbox: You can reach me with the links below
+- :mailbox: You can reach me with the links below.
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ahmed_abd_Ellatif)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.abd.ellatif.mo7@gmail.com)
