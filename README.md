@@ -1,4 +1,4 @@
-<h2>#:man_technologist: 𝐇i i'm Ahmed!<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+#:man_technologist:<h2> 𝐇i i'm Ahmed!<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 - 🎓Recent computer science graduate from El-Mynia FCI, specializing in PHP & Laravel
 - 🚀 Currently embarking on a career journey, I bring enthusiasm and attention to detail to the field. Excited about staying at the forefront of industry trends
