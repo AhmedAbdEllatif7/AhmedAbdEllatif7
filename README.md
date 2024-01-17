@@ -10,7 +10,7 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.abd.ellatif.mo7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-ahmedabdellatif7-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushkaverma/)](https://www.linkedin.com/in/ahmed-abd-ellatif-99b10124a/)
 [![Whatsapp Badge](https://img.shields.io/badge/-WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=573008754649&text=Olá!)](https://api.whatsapp.com/send?phone=573008754649&text=Hi-Ahmed!🖖)
-[![Website Badge](https://img.shields.io/badge/-ahmedabdellatif7.com-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://verma-anushka.github.io/anushkaverma/)](https://ahmedabdellatif7.github.io/Portfolio/) 
+[![Website Badge](https://img.shields.io/badge/-ahmedabdellatif7.com-purple?style=flat&logo=Google-Chrome&logoColor=white&link=https://verma-anushka.github.io/anushkaverma/)](https://ahmedabdellatif7.github.io/Portfolio/) 
 
 ##### Languages I use
 
