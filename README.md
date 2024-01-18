@@ -46,7 +46,7 @@
 <hr>
 
 <p align="left">
-<img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats...</b></i><br>
+<!-- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats...</b></i><br> -->
   <img width="30%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" /><img 
 <img src="https://github-readme-stats.vercel.app/api?username=AhmedAbdEllatif7&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/>
 </p>
