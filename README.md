@@ -1,4 +1,4 @@
-<h2> 𝐇i i'm Ahmed! <img width="10%" align="center" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" /><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2> 
+<h2> 𝐇i i'm Ahmed! src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2> 
 
 
 - 🎓Recent computer science graduate from El-Mynia FCI, specializing in PHP & Laravel
@@ -44,6 +44,7 @@
 
 
 <hr>
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" /><img 
 <p align="left">
 <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats...</b></i><br>
 <img src="https://github-readme-stats.vercel.app/api?username=AhmedAbdEllatif7&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Status"/>
