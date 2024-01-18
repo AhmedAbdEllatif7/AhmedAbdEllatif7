@@ -1,4 +1,4 @@
-<h2> 𝐇i i'm Ahmed! src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2> 
+<h2> 𝐇i i'm Ahmed! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2> 
 
 
 - 🎓Recent computer science graduate from El-Mynia FCI, specializing in PHP & Laravel
