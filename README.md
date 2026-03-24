@@ -29,12 +29,6 @@ I am a dedicated **Backend Engineer** with a passion for architecting scalable, 
 
 ---
 
-### 📊 GitHub Stats
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmedAbdEllatif7&show_icons=true&theme=radical )
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAbdEllatif7&layout=compact&theme=radical )
-
----
-
 ### 📫 Let's Connect!
 - **LinkedIn:** [in/ahmed-abd-ellatif](https://www.linkedin.com/in/ahmed-abd-ellatif-99b10124a )
 - **Portfolio:** [ahmed-abd-ellatif.vercel.app](https://ahmed-abd-ellatif.vercel.app/ )
