@@ -13,18 +13,9 @@ I am a dedicated **Backend Engineer** with a passion for architecting scalable, 
 
 ---
 
-### 🛠️ Tech Stack & Tools
-- **Languages:** PHP (Expert), JavaScript (ES6+).
-- **Frameworks:** Laravel (Core), Livewire.
-- **Databases:** MySQL, Eloquent ORM, Database Transactions.
-- **DevOps & Tools:** Git/GitHub, Composer, Postman, Docker (Basic).
-- **Frontend (Supportive):** HTML5, CSS3, Bootstrap, AJAX.
-
----
-
 ### 🏆 Featured Engineering Projects
 
-#### 🛒 [Multi-vendor & POS System](https://github.com/AhmedAbdEllatif7/your-repo-link )
+#### 🛒 [Multi-vendor & POS System]([https://github.com/AhmedAbdEllatif7/your-repo-link](https://drive.google.com/file/d/1fOUWke_dh2Orx6MFk7o64Sc6u6Ifoj5i/view?usp=drive_link )
 *A comprehensive solution for managing multiple stores, products, and real-time orders.*
 - **Key Impact:** Designed a hierarchical database structure for secure data isolation between vendors.
 - **Tech Highlights:** Implemented Laravel Queues for background notifications and Database Transactions for inventory integrity.
