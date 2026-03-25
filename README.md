@@ -16,17 +16,9 @@ I am a dedicated **Backend Engineer** with a passion for architecting scalable, 
 ### 🏆 Featured Engineering Projects
 
 #### 📢 [Saboba - Qatari Ads Platform](https://play.google.com/store/apps/details?id=com.app.saboba )
-*A scalable RESTful API backend for a high-traffic advertising platform.*
-- **Key Impact:** Engineered a multi-language API (AR/EN) with granular RBAC, achieving 99% system reliability.
-- **Tech Highlights:** Integrated Pusher for real-time admin dashboard updates and optimized latency by 25% via caching.
-  
-#### 🛒 [Multi-vendor & POS System](https://drive.google.com/file/d/1fOUWke_dh2Orx6MFk7o64Sc6u6Ifoj5i/view?usp=drive_link)
- 
-*A comprehensive solution for managing multiple stores, products, and real-time orders.*
-- **Key Impact:** Designed a hierarchical database structure for secure data isolation between vendors.
-- **Tech Highlights:** Implemented Laravel Queues for background notifications and Database Transactions for inventory integrity.
-- **Patterns:** Used API Resources for decoupled data presentation and Form Requests for centralized validation.
-
+*A scalable RESTful API backend for a comprehensive Advertising platform with integrated financial services.*
+- **Key Impact:** Developed a modular ad-management system supporting diverse sectors (Vehicles, Electronics, Services) and a bilingual workflow, achieving high system availability.
+- **Tech Highlights:** Leveraged Laravel Pipelines for complex OTP induction, and Cache for optimized performance across Thousands of cached permutations.
 
 
 ---
