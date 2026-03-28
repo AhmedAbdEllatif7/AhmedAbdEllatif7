@@ -16,27 +16,19 @@ I am a dedicated **Backend Engineer** with a passion for architecting scalable, 
 ### 🏆 Featured Engineering Projects
 
 #### 📢 [Saboba - Qatari Ads Platform](https://play.google.com/store/apps/details?id=com.app.saboba )
-*A high-performance multi-category marketplace featuring a dynamic multi-level taxonomy, secure digital wallet, and automated ad management.*
+*A high-performance marketplace featuring dynamic taxonomy, secure wallet, and automated ad management.*
 
-### 🛠️ Core Engineering Impact
-*   **Dynamic Multi-Level Taxonomy:** Architected a flexible **Hierarchical Tree Structure** to manage an unlimited depth of categories and sub-categories, allowing each ad sector (Vehicles, Real Estate, Jobs, etc.) to have its own unique attributes and localized (AR/EN) metadata.
-*   **Robust Admin Management Engine:** Engineered a comprehensive administrative control system to oversee platform operations, featuring advanced multi-criteria filtering (status, account type, categories) and automated moderation workflows.
-*   **Secure Wallet & Promotion Ecosystem:** Developed a secure financial layer to manage **Ad Promotion Packages**, wallet transactions, and automated ad boosting with high data integrity via **Database Transactions**.
-*   **Corporate Verification Lifecycle:** Built a robust module for business verification, including **Automated Lifecycle Management** via **Laravel Cron Jobs** to handle proactive expiration alerts and status updates.
+### 🛠️ Engineering Impact
+*   **Dynamic Taxonomy:** Architected a hierarchical tree structure for unlimited categories with sector-specific attributes.
+*   **Admin Engine:** Built a robust management system with advanced multi-criteria filtering and moderation workflows.
+*   **Wallet & Promotion:** Engineered a secure financial layer for ad boosting and transactions using Database Transactions.
+*   **Automation:** Developed a corporate verification module with automated lifecycle tracking via Laravel Cron Jobs.
 
-### ⚡ Technical Highlights & Performance
-*   **High-Speed Data Delivery:** Implemented a **versioned caching layer** with smart invalidation for both user-facing and administrative endpoints, significantly reducing **TTFB** and ensuring lightning-fast access to ad listings.
-*   **Scalable Notification System:** Engineered an event-driven notification ecosystem using **Firebase (FCM)**, utilizing **Laravel Queues & Jobs** to handle asynchronous high-volume broadcasts without impacting system responsiveness.
-*   **Clean Architecture & Maintainability:** 
-    *   Leveraged **Laravel Pipelines** to streamline complex workflows (e.g., OTP induction and Activity Auditing).
-    *   Utilized **API Resources** for decoupled data presentation and **Form Requests** for centralized validation logic.
-    *   Applied **Eloquent Scopes** to encapsulate complex business rules and query logic.
+### ⚡ Technical Highlights
+*   **Performance:** Implemented a versioned caching layer to optimize TTFB for localized (AR/EN) endpoints.
+*   **Scalability:** Built an event-driven notification system using Firebase (FCM) with Laravel Queues & Jobs.
+*   **Clean Code:** Leveraged Laravel Pipelines for complex workflows and API Resources for decoupled data presentation.
 
-### 📦 Tech Stack
-- **Backend:** PHP 8.x, Laravel 10/11, MySQL.
-- **Performance:** Redis/Cache, Laravel Queues, Cron Jobs.
-- **Integrations:** Firebase (FCM), Pusher, Spatie Media Library, Spatie Permissions (RBAC).
-- **Architecture:** RESTful APIs, SOLID Principles, Design Patterns (Repository, Service Layer, Pipelines).
 
 
 
