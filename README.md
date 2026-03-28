@@ -17,7 +17,7 @@ I am a dedicated **Backend Engineer** with a passion for architecting scalable, 
 
 #### 📢 [Saboba - Qatari Ads Platform](https://play.google.com/store/apps/details?id=com.app.saboba )
 *A scalable RESTful API backend for a comprehensive Advertising platform with integrated financial services.*
-- **Key Impact:** Developed a modular ad-management system supporting diverse sectors (Vehicles, Electronics, Services) and a bilingual workflow, achieving high system availability.
+- **Key Impact:** Developed a modular ad-management system supporting diverse sectors and a bilingual workflow, achieving high system availability.
 - **Tech Highlights:** Leveraged Laravel Pipelines for complex OTP induction, and Cache for optimized performance across Thousands of cached permutations.
 
 
