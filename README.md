@@ -9,7 +9,7 @@ I am a dedicated **Backend Engineer** with a passion for architecting scalable, 
 - **Architecture:** SOLID Principles, Design Patterns (Repository, Service Layer, Observer, Strategy).
 - **Performance:** Database Indexing, Query Optimization, Laravel Queues, and Caching Strategies.
 - **Security:** Secure API Design, Sanctum/Passport Authentication, RBAC (Spatie), and Data Validation.
-- **Integrations:** Payment Gateways, Real-time Notifications (FCM/Pusher), and Third-party APIs.
+- **Integrations:** Payment Gateways, and Third-party APIs.
 
 ---
 
