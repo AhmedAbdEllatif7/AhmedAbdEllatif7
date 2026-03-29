@@ -16,7 +16,7 @@ I am a dedicated **Backend Engineer** with a passion for architecting scalable, 
 ### 🏆 Featured Engineering Projects
 
 #### 📢 [Saboba - Qatari Ads Platform](https://play.google.com/store/apps/details?id=com.app.saboba )
-*A high-performance marketplace featuring dynamic taxonomy, secure wallet, and automated ad management.*
+*A comprehensive multi-category marketplace supporting a dynamic, multi-level taxonomy for diverse ad sectors, featuring full-scale ad management and administrative control.*
 
 ### 🛠️ Engineering Impact
 *   **Dynamic Taxonomy:** Architected a hierarchical tree structure for unlimited categories with sector-specific attributes.
